@@ -20,7 +20,7 @@ pageEncoding="UTF-8"%>
         <header>
           <div id="container_header">
             <div id="teamname">
-              <span>CJAEddd</span>
+              <span>CJAEddddsfadfdafdaf</span>
             </div>
             <div id="myprofile">
               <a href="#"><img src="/src/myprofile.png" alt="" /></a>
