@@ -20,7 +20,7 @@ pageEncoding="UTF-8"%>
         <header>
           <div id="container_header">
             <div id="teamname">
-              <span>CJAEddddsfadfdafdaf</span>
+              <span>제가뭔가적었습니다CJAEddd</span>
             </div>
             <div id="myprofile">
               <a href="#"><img src="/src/myprofile.png" alt="" /></a>
